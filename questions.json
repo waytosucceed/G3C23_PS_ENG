@@ -1,0 +1,250 @@
+{
+  "heading": "Adjective vs Adverb",
+  "topics": [
+    {
+      "heading": "Adjective vs Adverb",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which word is an adjective in the following sentence? \"The curious child asked many questions.\"",
+          "options": [
+            { "text": "curious" },
+            { "text": "child" },
+            { "text": "asked" },
+            { "text": "many" }
+          ],
+          "answer": 0,
+          "explanation": "\"Curious\" is an adjective that describes the noun \"child.\""
+        },
+        {
+          "questionNo": 2,
+          "question": "Which word is an adjective in the following sentence? \"The tiny mouse scurried across the floor.\"",
+          "options": [
+            { "text": "tiny" },
+            { "text": "mouse" },
+            { "text": "scurried" },
+            { "text": "floor" }
+          ],
+          "answer": 0,
+          "explanation": "\"Tiny\" is an adjective that describes the noun \"mouse.\""
+        },
+        {
+          "questionNo": 3,
+          "question": "Fill in the blank with an adverb: The little girl sang _____ in the school play.",
+          "options": [
+            { "text": "happy" },
+            { "text": "sweet" },
+            { "text": "beautifully" },
+            { "text": "nice" }
+          ],
+          "answer": 2,
+          "explanation": "\"Beautifully\" is an adverb that describes how the girl sang (the verb)."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which word is an adverb in the following sentence? \"The friendly dog wagged its tail happily.\"",
+          "options": [
+            { "text": "friendly" },
+            { "text": "dog" },
+            { "text": "wagged" },
+            { "text": "happily" }
+          ],
+          "answer": 3,
+          "explanation": "\"Happily\" is an adverb that describes how the dog wagged its tail (the verb), while \"friendly\" is an adjective that describes the noun \"dog.\""
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blank with an adjective: The _____ baby laughed at the silly faces.",
+          "options": [
+            { "text": "loudly" },
+            { "text": "adorable" },
+            { "text": "cutely" },
+            { "text": "happily" }
+          ],
+          "answer": 1,
+          "explanation": "\"Adorable\" is an adjective that describes the noun \"baby.\""
+        },
+        {
+          "questionNo": 6,
+          "question": "Which word is an adjective in the following sentence? \"The bright sun shone in the clear sky.\"",
+          "options": [
+            { "text": "bright" },
+            { "text": "clear" },
+            { "text": "shone" },
+            { "text": "Both a and b" }
+          ],
+          "answer": 3,
+          "explanation": "Both \"bright\" and \"clear\" are adjectives in this sentence. \"Bright\" describes the noun \"sun,\" while \"clear\" describes the noun \"sky.\""
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blank with an adverb: The polite boy spoke _____ to his teacher.",
+          "options": [
+            { "text": "kind" },
+            { "text": "gentle" },
+            { "text": "respectfully" },
+            { "text": "nice" }
+          ],
+          "answer": 2,
+          "explanation": "\"Respectfully\" is an adverb that describes how the boy spoke (the verb)."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which word is an adverb in the following sentence? \"The clever fox quickly found the hidden food.\"",
+          "options": [
+            { "text": "clever" },
+            { "text": "fox" },
+            { "text": "quickly" },
+            { "text": "hidden" }
+          ],
+          "answer": 2,
+          "explanation": "\"Quickly\" is an adverb that describes how the fox found the food (the verb), while \"clever\" is an adjective that describes the noun \"fox.\""
+        },
+        {
+          "questionNo": 9,
+          "question": "Fill in the blank with an adjective: The _____ rainbow appeared after the rainy day.",
+          "options": [
+            { "text": "brightly" },
+            { "text": "colourful" },
+            { "text": "beautifully" },
+            { "text": "suddenly" }
+          ],
+          "answer": 1,
+          "explanation": "\"Colourful\" is an adjective that describes the noun \"rainbow.\""
+        },
+        {
+          "questionNo": 10,
+          "question": "Which word is an adjective in the following sentence? \"The tall giraffe reached for the leafy branches.\"",
+          "options": [
+            { "text": "tall" },
+            { "text": "reached" },
+            { "text": "leafy" },
+            { "text": "Both a and c" }
+          ],
+          "answer": 3,
+          "explanation": "Both \"tall\" and \"leafy\" are adjectives in this sentence. \"Tall\" describes the noun \"giraffe,\" while \"leafy\" describes the noun \"branches.\""
+        },
+        {
+          "questionNo": 11,
+          "question": "Fill in the blank with an adverb: The excited puppy ran _____ to greet its owner.",
+          "options": [
+            { "text": "happy" },
+            { "text": "fast" },
+            { "text": "eagerly" },
+            { "text": "playful" }
+          ],
+          "answer": 2,
+          "explanation": "\"Eagerly\" is an adverb that describes how the puppy ran (the verb)."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word is an adverb in the following sentence? \"The kind nurse gently bandaged the patient's wound.\"",
+          "options": [
+            { "text": "kind" },
+            { "text": "nurse" },
+            { "text": "gently" },
+            { "text": "patient" }
+          ],
+          "answer": 2,
+          "explanation": "\"Gently\" is an adverb that describes how the nurse bandaged the wound (the verb), while \"kind\" is an adjective that describes the noun \"nurse.\""
+        },
+        {
+          "questionNo": 13,
+          "question": "Fill in the blank with an adjective: The _____ kitten played with the ball of yarn.",
+          "options": [
+            { "text": "softly" },
+            { "text": "playful" },
+            { "text": "gently" },
+            { "text": "quietly" }
+          ],
+          "answer": 1,
+          "explanation": "\"Playful\" is an adjective that describes the noun \"kitten.\""
+        },
+        {
+          "questionNo": 14,
+          "question": "Which word is an adjective in the following sentence? \"The shiny red car raced down the long road.\"",
+          "options": [
+            { "text": "shiny" },
+            { "text": "red" },
+            { "text": "long" },
+            { "text": "All of the above" }
+          ],
+          "answer": 3,
+          "explanation": "\"Shiny,\" \"red,\" and \"long\" are all adjectives in this sentence. \"Shiny\" and \"red\" describe the noun \"car,\" while \"long\" describes the noun \"road.\""
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank with an adverb: The athlete _____ leapt over the hurdle.",
+          "options": [
+            { "text": "graceful" },
+            { "text": "high" },
+            { "text": "effortlessly" },
+            { "text": "agile" }
+          ],
+          "answer": 2,
+          "explanation": "\"Effortlessly\" is an adverb that describes how the athlete leapt (the verb)."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word is an adjective in the following sentence? \"The majestic mountains appeared in the distance.\"",
+          "options": [
+            { "text": "majestic" },
+            { "text": "mountains" },
+            { "text": "appeared" },
+            { "text": "distance" }
+          ],
+          "answer": 0,
+          "explanation": "\"Majestic\" is an adjective that describes the noun \"mountains.\""
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word is an adverb in the following sentence? \"The exhausted runner collapsed heavily after the marathon.\"",
+          "options": [
+            { "text": "exhausted" },
+            { "text": "runner" },
+            { "text": "collapsed" },
+            { "text": "heavily" }
+          ],
+          "answer": 3,
+          "explanation": "\"Heavily\" is an adverb that describes how the runner collapsed (the verb), while \"exhaust"
+        },
+        {
+          "questionNo": 18,
+          "question": " Which word is an adjective in the following sentence? \"The compassionate nurse comforted the anxious patient.\"",
+          "options": [
+            { "text": "compassionate" },
+            { "text": "anxious" },
+            { "text": "Both a and b" },
+            { "text": " None of the above" }
+          ],
+          "answer": 2,
+          "explanation": "\"Heavily\" is an adverb that describes how the runner collapsed (the verb), while \"exhaust"
+        },
+        {
+          "questionNo": 19,
+          "question": " Choose the correct pair in the sentence \"The talented musician played the piano beautifully.\"",
+          "options": [
+            { "text": "talented: adverb" },
+            { "text": "musician: adjective" },
+            { "text": "played: adverb" },
+            { "text": "beautifully: adverb" }
+          ],
+          "answer": 3,
+          "explanation": "\"Heavily\" is an adverb that describes how the runner collapsed (the verb), while \"exhaust"
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word is an adjective in the following sentence? \"The mischievous toddler hid from his parents.\"",
+          "options": [
+            { "text": "mischievous" },
+            { "text": "toddler" },
+            { "text": "hid" },
+            { "text": "parents" }
+          ],
+          "answer": 0,
+          "explanation": "\"Heavily\" is an adverb that describes how the runner collapsed (the verb), while \"exhaust"
+        }
+    ]
+  }
+]
+}
